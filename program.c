@@ -2,6 +2,6 @@
 #include<conio.h>
 int main()
 {
-    printf("Using Github!!!");
+    printf("Using Github!!");
     return 0;
 }
