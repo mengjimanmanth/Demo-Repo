@@ -4,5 +4,6 @@ int main()
 {
     printf("Using Github!!");
     printf("Doing nothing...");
+    printf("Bye Bye!!");
     return 0;
 }
